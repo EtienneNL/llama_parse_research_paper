@@ -1,0 +1,20 @@
+.DS_Store
+/__pycache__
+/.streamlit/secrets.toml
+/myenv
+/.env
+/data
+/utils copy.py
+/text_to_sql_langchain.ipynb
+/documents/topic_summarization.txt
+/text_2_sql.py
+/bot_breakdown_databricks.ipynb
+/bot_breakdown_test.ipynb
+/requirements copy.txt
+/google-cloud-sdk
+/google_mysql.ipynb
+/streamlit_app_test.py
+/data/coupa_blueprint.db
+/st_feedback_app.py
+/file_loader_llamaparse.ipynb
+/helper.py
