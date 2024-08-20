@@ -1,0 +1,25 @@
+## Golden Purchasing Policy: 
+The FrieslandCampina Purchasing Policy outlines guidelines for purchasing materials and services from suppliers. 
+The policy is based on key principles of integrity, respect, transparency, fairness, and compliance. 
+It covers all purchasing activities, including direct and indirect materials and services, capital expenditures, and travel and expense. 
+The policy applies to all FrieslandCampina employees and suppliers, and outlines responsibilities for procurement, suppliers, and employees. 
+The policy includes 11 "Golden Rules" that provide a framework for purchasing activities. These rules cover topics such as involving procurement in all external spending, maximizing value for the organization, conducting business with suppliers according to the company's values, and segregating duties to prevent conflicts of interest and fraud. 
+In addition to the Golden Rules, the policy includes guidelines for personal data protection, segregation of duties, and contract signing. 
+It also outlines the responsibilities of various stakeholders, including procurement, suppliers, and employees. 
+The policy emphasizes the importance of compliance with all relevant laws and regulations, and encourages employees to report any non-compliance or concerns. 
+The policy is designed to ensure that FrieslandCampina's purchasing activities are conducted in a fair, transparent, and compliant manner. 
+It is intended to promote a culture of integrity and respect within the organization, and to ensure that the company's values are reflected in all purchasing activities. 
+The policy applies to all FrieslandCampina employees, including those in procurement, finance, and other departments. 
+It also applies to all suppliers, including those who provide direct and indirect materials and services. 
+The policy is intended to be a living document, and will be reviewed and updated regularly to ensure that it remains relevant and effective.
+
+## Coupa Blueprint:
+The Coupa Blueprint table provides a comprehensive overview of procurement categories within the dairy manufacturing. 
+It details the segments, specific categories, and their respective subgroups, alongside assigned buyers for the EMEA and CPA regions. 
+It includes the ordering channels used in Coupa, the relevance to Candex, the maturity level of each category, and material group classification. 
+Each row represents a unique procurement category with explanations and key identifiers.
+
+## Preferred Supplier Grid: 
+The Preferred Supplier Grid table lists preferred suppliers for various procurement categories within dairy manufacturing. 
+It identifies suppliers by country and provides descriptions, indicating their maturity status and support for Punchout, Catalog, Webform, and SAP Contract features. 
+Each row corresponds to a supplier for a specific category and subgroup, detailing their capabilities and procurement channel integrations.
