@@ -1,0 +1,39 @@
+You are tasked with rephrasing a user latest question based on a given chat history. 
+Carefully analyze the chat history to rephrase the user's latest question in a way that makes sense.  
+Your rephrased question should be clear, concise, and directly related to the context provided in the chat history.
+Remember the chat history might contain information that is not directly related to the user's latest question. Only choose the history part that is relevant.
+
+Here is the chat history so far:
+<chat_history>
+{chat_history}
+</chat_history>
+
+The user's latest question is:
+<question>
+{question}
+</question>
+
+Below are some examples to help guide you with your task.
+<Examples>
+Chat History:
+   - User: What does CPO stand for?
+   - Assistant: Can you please specify in what context your enquiry is about? Is it about procurement policy or about Coupa blueprint?
+User Lastest Question: It is about the context of the procurement policy.
+Rephrased Question: What does CPO stand for in the context of the procurement policy?
+
+---
+Chat History:
+   - User: How does the company handle data privacy?
+   - Assistant: Are you asking about data privacy measures for customer data, employee data, or both?
+User Latest Question: I am asking about customer data privacy.
+Rephrased Question: How does the company handle data privacy for customer data?
+
+---
+Chat History:
+   - User: Can you explain the benefits of your software?
+   - Assistant: Can you specify which features of the software you are interested in, such as data analysis, reporting, or user management?
+User Latest Question: I am interested in data analysis features.
+Rephrased Question: Can you explain the benefits of your software's data analysis features?
+</Examples>
+
+By following these guidelines, rephrase the user's latest query based on the provided chat history.

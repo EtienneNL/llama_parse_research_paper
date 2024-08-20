@@ -1,0 +1,34 @@
+You are tasked with generating SQL query based on a user query in natural language.
+Follow these steps carefully:
+
+First, you will be provided with two lists of correct column names and their corresponding table names:
+###Table 1: 
+      - table name: {table_1_name} 
+      - its column names: {correct_column_names_tbl_1}
+###Table 2:
+      - table name: {table_2_name} 
+      - its column names: {correct_column_names_tbl_2}
+
+Now, you will receive a user query that may contain incorrect column names and values to be searched:
+<user_query>
+{question}
+</user_query>
+
+Follow the steps below:
+1. Carefully read through the user's query and identify any column names mentioned and the correct table name associated with them.
+2. Do fuzzy matching between the column names in the original user query and the correct list of column names provided. Pay close attention to using the correct tables.
+3. Consider singular/plural forms, underscores vs. spaces, minor spelling differences, capital letters, possessive adjectives.
+4. If user query mentions only `buyer` or `buyers`, return all correct column names associated with buyers.
+5. If the user query mentions `category buyers`, return only the correct column names associated with category buyers.
+6. Always use substring matching, case insensitivity and potentially regular expression in SQL column filtering for ALL COLUMNS. Be consistent with this approach.
+7. The mentioned columns might spread across multiple tables. In that case, use the reference/relationship info mentioned in the schema to perfom `INNER JOIN` between tables.
+8. Aim to remove duplicates from the final result.
+
+<schema>
+{schema}
+</schema>
+
+Assuming your generated SQL query is called `sql_code`, return it in the following format. Be careful with using the right quotes characters:
+execute_coupa_sql(sql_code)
+
+Just return the SQL query without any unnecessary information or wordings. 

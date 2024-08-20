@@ -1,0 +1,14 @@
+username,key,value
+
+FC_procurement_policy,1,When is a legal contract required?
+FC_procurement_policy,2,Who are the buyers for **segment** direct and **sub category** fresh milk?
+FC_procurement_policy,3,What are the **GL account** and its corresponding description for **sub category** catering & vending?
+FC_procurement_policy,4,Who is the preferred supplier for pumps in Leerdam?
+FC_procurement_policy,5,Do I need to create a PO for hiring a consultant?
+FC_procurement_policy,6,What is the commodity (category) for hiring a headhunter for executive search?
+FC_procurement_policy,7,When do I need to contact Procurement?
+FC_procurement_policy,8,What does GTC/GPC stand for?
+FC_procurement_policy,9,What does Compass rule say about Protection of confidential information?
+FC_procurement_policy,10,What is the preferred method of payment for a supplier?
+FC_procurement_policy,11,Who is/are the approver(s) within business groups for POs above 7.5M euro?
+FC_procurement_policy,12,Who defines and manages of specifications for BOM-related materials and external manufacturing?
