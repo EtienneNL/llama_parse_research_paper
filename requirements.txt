@@ -1,0 +1,30 @@
+# pip3 install -r requirements.txt
+pip==24.2
+streamlit==1.37.1
+ragstack-ai
+openai
+langchain-openai
+langchain-together
+tiktoken
+pypdf
+pandas
+# mlflow
+pyodbc
+llama-index-llms-langchain
+llama-index-embeddings-langchain
+langchain-core
+langchain-community
+langchain-experimental
+llama_index.embeddings.huggingface
+gcsfs==2024.6.1
+st-files-connection
+google-cloud-storage
+# mysql-connector-python
+pymysql
+mysqlclient
+SQLAlchemy
+# pydata_google_auth
+cloud-sql-python-connector[pymysql]
+faiss-cpu
+streamlit-feedback
+nltk
